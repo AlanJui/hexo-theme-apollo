@@ -1,6 +1,6 @@
 menu:
-    Blog: /
-    Archive: ./archives/
+    Blog: /blog
+    Archive: /blog/archives
     Weibo: http://www.weibo.com/u/5661797831
     GitHub: https://github.com/AlanJui
 
